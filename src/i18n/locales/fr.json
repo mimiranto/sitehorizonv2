@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "services": "Services",
+    "team": "Notre Équipe",
+    "appointment": "Rendez-vous",
+    "followUs": "Suivez-nous sur les réseaux sociaux",
+    "phone": "07 44 99 45 96"
+  },
+  "hero": {
+    "title": "Centre Horizon",
+    "subtitle": "Imagerie Médicale",
+    "description": "Bienvenue au Centre d'Imagerie Médicale Horizon Maki, situé à Guéret. Nous offrons des services d'imagerie médicale de haute qualité grâce à une équipe de professionnels expérimentés et à des technologies de pointe.",
+    "button": "Prendre rendez-vous"
+  },
+  "services": {
+    "title": "Nos Services",
+    "radiology": {
+      "title": "Radiologie Générale",
+      "description": "Imagerie médicale pour diagnostiquer diverses pathologies."
+    },
+    "ultrasound": {
+      "title": "Échographie",
+      "description": "Examen non invasif utilisant des ondes sonores pour visualiser les organes internes."
+    },
+    "mammography": {
+      "title": "Mammographie Dépistage",
+      "description": "Examen radiologique pour détecter les anomalies mammaires."
+    }
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "doctor1": {
+      "name": "Dr Rabenandrasana Alain",
+      "title": "Radiologue",
+      "description": "Radiologue qualifié avec une expertise approfondie en imagerie médicale."
+    },
+    "doctor2": {
+      "name": "Dr Randriamampionona Malala",
+      "title": "Radiologue IMM",
+      "description": "Spécialiste en imagerie médicale avec une expertise particulière en mammographie."
+    }
+  },
+  "appointment": {
+    "title": "Prendre Un Rendez-Vous",
+    "description": "Vous cherchez à prendre rendez-vous ? Notre équipe de professionnels est là pour vous aider ",
+    "center": "Centre Horizon Maki",
+    "address": "23000 - Guéret",
+    "phone": "Tél : 07 44 99 45 96",
+    "email": "Email : makimagerie@outlook.fr",
+    "button": "Prendre RDV sur"
+  },
+  "footer": {
+    "followUs": "Suivez-nous sur les réseaux sociaux",
+    "contact": "Contact",
+    "address": "23000 - Guéret",
+    "phone": "07 44 99 45 96",
+    "email": "makimagerie@outlook.fr",
+    "hours": "Horaires",
+    "weekdays": "Lundi - Vendredi: 9h - 12h 13h30 - 17h",
+    "saturday": "Samedi : 9h - 12h",
+    "sunday": "Dimanche : Fermé",
+    "copyright": "Makimagerie | Dr Rabenandrasana © 2024 – Tous droits réservés"
+  }
+}

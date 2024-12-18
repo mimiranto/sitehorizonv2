@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "services": "Services",
+    "team": "Our Team",
+    "appointment": "Appointment",
+    "followUs": "Follow us on social media",
+    "phone": "07 44 99 45 96"
+  },
+  "hero": {
+    "title": "Horizon Center",
+    "subtitle": "Medical Imaging",
+    "description": "Welcome to Horizon Maki Medical Imaging Center, located in Guéret. We offer high-quality medical imaging services thanks to a team of experienced professionals and cutting-edge technology.",
+    "button": "Book an appointment"
+  },
+  "services": {
+    "title": "Our Services",
+    "radiology": {
+      "title": "General Radiology",
+      "description": "Medical imaging to diagnose various pathologies."
+    },
+    "ultrasound": {
+      "title": "Ultrasound",
+      "description": "Non-invasive examination using sound waves to visualize internal organs."
+    },
+    "mammography": {
+      "title": "Mammography Screening",
+      "description": "Radiological examination to detect breast abnormalities."
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "doctor1": {
+      "name": "Dr Rabenandrasana Alain",
+      "title": "Radiologist",
+      "description": "Qualified radiologist with extensive expertise in medical imaging."
+    },
+    "doctor2": {
+      "name": "Dr Randriamampionona Malala",
+      "title": "IMM Radiologist",
+      "description": "Medical imaging specialist with particular expertise in mammography."
+    }
+  },
+  "appointment": {
+    "title": "Book an Appointment",
+    "description": "Looking to make an appointment? Our team of professionals is here to help!",
+    "center": "Horizon Maki Center",
+    "address": "23000 - Guéret",
+    "phone": "Tel: 07 44 99 45 96",
+    "email": "Email: makimagerie@outlook.fr",
+    "button": "Book on"
+  },
+  "footer": {
+    "followUs": "Follow us on social media",
+    "contact": "Contact",
+    "address": "23000 - Guéret",
+    "phone": "07 44 99 45 96",
+    "email": "makimagerie@outlook.fr",
+    "hours": "Opening Hours",
+    "weekdays": "Monday - Friday : 9am - 12pm 1:30pm - 5pm",
+    "saturday": "Saturday : 9am - 12pm",
+    "sunday": "Sunday : Closed",
+    "copyright": "Makimagerie | Dr Rabenandrasana © 2024 – All rights reserved"
+  }
+}
