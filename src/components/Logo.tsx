@@ -1,11 +1,12 @@
 import React from "react";
+import logo from "../public/Asset/favicon.png";
 
 const Logo = () => {
   return (
     <div className="flex items-center space-x-2 sm:space-x-1 md:space-x-3">
       <div className="text-green-600">
         <img
-          src="https://makimagerie.com/favicon.png"
+          src={logo}
           alt="Logo"
           className="h-14 w-auto md:h-16"
         />
