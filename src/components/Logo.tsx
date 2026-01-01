@@ -8,7 +8,7 @@ const Logo = () => {
         <img
           src={logo}
           alt="Logo"
-          className="h-14 w-auto md:h-16"
+          className="h-14 w-auto md:h-14"
         />
       </div>
       <div className="flex flex-col">

@@ -4,26 +4,23 @@
     "team": "Notre Équipe",
     "appointment": "Rendez-vous",
     "followUs": "Suivez-nous sur les réseaux sociaux",
-    "phone": "07 44 99 45 96"
+    "phone": "01 76 43 21 68"
   },
   "hero": {
-    "title": "Centre Horizon",
+    "title": "Centre Échographique Maki",
     "subtitle": "Imagerie Médicale",
-    "description": "Bienvenue au Centre d'Imagerie Médicale Horizon Maki, situé à Guéret. Nous offrons des services d'imagerie médicale de haute qualité grâce à une équipe de professionnels expérimentés et à des technologies de pointe.",
+    "description": "Bienvenue au Centre d'Imagerie Médicale d'Echographie, situé à Limoges. Nous offrons des services d'imagerie médicale de haute qualité grâce à une équipe de professionnels expérimentés et à des technologies de pointe.",
     "button": "Prendre rendez-vous"
   },
   "services": {
     "title": "Nos Services",
-    "radiology": {
-      "title": "Radiologie Générale",
-      "description": "Imagerie médicale pour diagnostiquer diverses pathologies."
-    },
+    
     "ultrasound": {
-      "title": "Échographie",
+      "title": "Échographie Générale",
       "description": "Examen non invasif utilisant des ondes sonores pour visualiser les organes internes."
     },
     "mammography": {
-      "title": "Mammographie Dépistage",
+      "title": "Échographie Mammaire Individuelle",
       "description": "Examen radiologique pour détecter les anomalies mammaires."
     }
   },
@@ -31,34 +28,30 @@
     "title": "Notre Équipe",
     "doctor1": {
       "name": "Dr Rabenandrasana Alain",
-      "title": "Radiologue",
-      "description": "Radiologue qualifié avec une expertise approfondie en imagerie médicale."
-    },
-    "doctor2": {
-      "name": "Dr Randriamampionona Malala",
-      "title": "Radiologue IMM",
-      "description": "Spécialiste en imagerie médicale avec une expertise particulière en mammographie."
+      "title": "Radiologue ",
+      "tit":"N°RPPS : 10101964111",
+      "description": "Radiologue qualifié avec une expertise approfondie en imagerie médicale"
     }
   },
   "appointment": {
     "title": "Prendre Un Rendez-Vous",
     "description": "Vous cherchez à prendre rendez-vous ? Notre équipe de professionnels est là pour vous aider ",
-    "center": "Centre Horizon Maki",
-    "address": "23000 - Guéret",
-    "phone": "Tél : 07 44 99 45 96",
-    "email": "Email : makimagerie@outlook.fr",
+    "center": "Centre Échographique Maki",
+    "address": "87000 - Limoges",
+    "phone": "01 76 43 21 68",
+    "email": "makimagerie@outlook.fr",
     "button": "Prendre RDV sur"
   },
   "footer": {
     "followUs": "Suivez-nous sur les réseaux sociaux",
     "contact": "Contact",
-    "address": "23000 - Guéret",
-    "phone": "07 44 99 45 96",
+    "address": "87000 - Limoges",
+    "phone": "01 76 43 21 68",
     "email": "makimagerie@outlook.fr",
     "hours": "Horaires",
-    "weekdays": "Lundi - Vendredi: 9h - 12h 13h30 - 17h",
-    "saturday": "Samedi : 9h - 12h",
+    "weekdays": "Lundi - Vendredi: 8h30 - 19h",
+    "saturday": "Samedi : 8h30 - 13h",
     "sunday": "Dimanche : Fermé",
-    "copyright": "Makimagerie | Dr Rabenandrasana © 2024 – Tous droits réservés"
+    "copyright": "Makimagerie | Dr Rabenandrasana © 2026 – Tous droits réservés"
   }
 }

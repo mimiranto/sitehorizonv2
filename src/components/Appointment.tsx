@@ -1,6 +1,7 @@
 import React from 'react';
 import { Calendar } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { MapPin,Phone, Mail } from 'lucide-react';
 
 const Appointment = () => {
   const { t } = useTranslation();
@@ -19,13 +20,29 @@ const Appointment = () => {
           <div className="p-8 flex flex-col md:flex-row items-center justify-between gap-8">
             <div className="flex-1 text-center md:text-left">
               <h3 className="text-2xl font-semibold text-blue-900 dark:text-blue-100 mb-4">{t('appointment.center')}</h3>
-              <p className="text-gray-600 dark:text-gray-300 mb-2">{t('appointment.address')}</p>
-              <p className="text-gray-600 dark:text-gray-300 mb-4">{t('appointment.phone')}</p>
-              <p className="text-gray-600 dark:text-gray-300">{t('appointment.email')}</p>
+               <p className="flex items-center text-gray-600 dark:text-gray-300">
+                <MapPin className="w-5 h-5 m-2" />
+                <a
+                  href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x47f93516284e784d:0x3dc158d87b354870?sa=X&ved=1t:8290&hl=fr&gl=fr&ictx=111&cshid=1767293717414197"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-blue-600 transition-colors underline"
+                >
+                {t("appointment.address")}
+                </a>
+              </p>
+              <p className="flex items-center text-gray-600 dark:text-gray-300">
+                <Phone className="w-5 h-5 m-2" />
+                <a href="tel:0176432168">{t("appointment.phone")}</a>
+              </p>
+              <p className="flex items-center text-gray-600 dark:text-gray-300">
+                <Mail className="w-5 h-5 m-2" />
+                <a href="mailto:makimagerie@outlook.fr">{t("appointment.email")}</a>
+              </p>
             </div>
 
             <a
-              href="https://www.doctolib.fr"
+              href="https://www.doctolib.fr/centre-d-imagerie-medicale/limoges/maki-imagerie/booking/motives?specialityId=11&telehealth=false&placeId=practice-733940&bookingFunnelSource=profile"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 bg-[#0596DE] text-white px-8 py-4 rounded-lg hover:bg-[#0477B2] transition-colors group"
