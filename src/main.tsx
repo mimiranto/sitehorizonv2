@@ -1,13 +1,15 @@
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import { ThemeProvider } from 'next-themes';
-import App from './App';
-import './index.css';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App'
+import './index.css'
+// 1. Ajoutez cet import
+import { BrowserRouter } from 'react-router-dom'
 
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <ThemeProvider attribute="class" defaultTheme="light">
+ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
+  <React.StrictMode>
+    {/* 2. Entourez <App /> avec <BrowserRouter> */}
+    <BrowserRouter>
       <App />
-    </ThemeProvider>
-  </StrictMode>
-);
+    </BrowserRouter>
+  </React.StrictMode>,
+)

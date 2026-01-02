@@ -15,12 +15,12 @@ const Services = () => {
     {
       title: t('services.ultrasound.title'),
       description: t('services.ultrasound.description'),
-      image: 'src/public/Asset/mammo.jpg'
+      image: '/Asset/radio.jpg'
     },
     {
       title: t('services.mammography.title'),
       description: t('services.mammography.description'),
-      image: 'src/public/Asset/Echo.jpg'
+      image: '/Asset/mammo.jpg'
     }
   ];
 
